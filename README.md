@@ -1,4 +1,4 @@
-# 🚴‍♂️ Bike Store Sales Analysis (MySQL + Excel)
+# 🚴‍♂️ Bike Store Sales Analysis 
 
 This project analyzes bike store sales data extracted from a **MySQL** database and visualized using **Microsoft Excel**. The analysis highlights revenue distribution by product category, brand, region, and individual sales representatives.
 
